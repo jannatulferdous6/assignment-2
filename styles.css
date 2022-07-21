@@ -18,6 +18,13 @@ body {
               padding: 100px;
               position: relative;
 }
+.banner img {
+              width: 42%;
+              position: absolute;
+              bottom: 0;
+              margin-top: 30px;
+              padding-right: 80px;
+}
 .main-btn {
               color: #ffff;
               background-color: #DD0000;
@@ -132,4 +139,10 @@ footer a {
               color: #B9B9B9;
               font-size: 16px;
               margin-right: 20px;
+}
+footer h2 {
+              font-size: 40px;
+              font-weight: 600;
+              padding-top: 80px;
+              padding-bottom: 25px;
 }
